@@ -1,0 +1,5 @@
+Steps : 1] Install Paython 
+        2] Install Anaconda or Jupyter by follwing command >> pip install jupyter notebook
+Step :  2] once the anaconda or jupyter is installed run using command or git bash type jupyter notebook 
+            hit enter..
+         2.1] once you select .ipynb file run all notebook......
