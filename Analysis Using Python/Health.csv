@@ -1,0 +1,434 @@
+Timestamp,Willing,Pesrson_name,your_name,Gender,Age_Group,Profession,B_Student,B_Employee,Student_Edu,Emp_Occupation,Insurance,Why_not,Future_inetrest,Type,who_pay,Premium_type,How_much,Satisfied,Company,no_type,no_premium,no_howmuch,Total Response,Total Insured,Total Not Insured
+43668.46233,Yes,Imran,Zameer,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,Yes,NULL,NULL,Family,Parent,Annually,"Between 5,000 and  9,999",Yes,Star Health & Allied Insurance Company Limited,NULL,NULL,NULL,Yes,Yes,No
+43668.48958,Yes,Neha,Aditi,Female,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,DB,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,Below 5000,NULL,Yes,No
+43668.50849,Yes,Imran,Faizan Ilahi Ansari,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Monthly,"Between 5,000 and  9,999",No,Yes,No
+43668.56224,Yes,Imran,Shaikh khurram Naser,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"20,000 and More",No,Yes,No
+43668.58651,Yes,Imran,Mohd Tahseen,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,DB,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,Yes,No
+43668.66334,Yes,namarata mam,MOUSHAM KUMAR ,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,Yes,NULL,NULL,Self,Yourself,Annually,Below 5000,No,SBI Health Insurance Company Limited,NULL,NULL,NULL,No,Yes,No
+43668.66345,Yes,namarata mam,mojam shaikh,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,Yes,NULL,NULL,Self,Yourself,Annually,Below 5000,No,SBI Health Insurance Company Limited,NULL,NULL,NULL,Yes,Yes,No
+43668.66402,Yes,Imran,ganesh parande,Male,18 to 30,Employee,NULL,NULL,NULL,IT Sector,No,NULL,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,Yes,No
+43668.66412,Yes,namarata mam,Shareque Mohd,Male,18 to 30,Employee,NULL,NULL,NULL,IT Sector,No,NN,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,Yes,No
+43668.66498,Yes,Mehdi mam,moin shaikh,Male,18 to 30,Student & Employee,Under Graduate(UG),IT Sector,NULL,NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 5,000 and  9,999",No,Yes,No
+43668.66516,Yes,Mehdi mam,raza shaikh,Male,18 to 30,Student & Employee,Under Graduate(UG),IT Sector,NULL,NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 5,000 and  9,999",No,Yes,No
+43668.66521,Yes,Mehdi mam,Khan Ubaid Ur Rehman,Male,18 to 30,Student & Employee,Under Graduate(UG),IT Sector,NULL,NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 5,000 and  9,999",No,Yes,No
+43668.66629,Yes,Imran,Nazim Shaikh,Male,18 to 30,Student & Employee,Post Graduate(PG),IT Sector,NULL,NULL,Yes,NULL,NULL,Individual,Yourself,Half Yearly,"Between 5,000 and  9,999",Yes,Other,NULL,NULL,NULL,No,Yes,No
+43668.66961,Yes,Mehdi mam,Akanksha,Female,18 to 30,Employee,NULL,NULL,NULL,Other,Yes,NULL,NULL,Self,Company,Monthly,Below 5000,Yes,Other,NULL,NULL,NULL,Yes,Yes,No
+43668.67428,Yes,Mehdi mam,Saira pansare ,Female,30 to 50,Student & Employee,Post Graduate(PG),Other,NULL,NULL,No,DB,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,Yes,No
+43668.76163,Yes,Mehdi mam,Juzer Dhoon,Male,18 to 30,Student & Employee,Post Graduate(PG),IT Sector,NULL,NULL,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,Yes,No
+43668.8031,Yes,Mehdi mam,Rakhshanda Shaikh,Female,18 to 30,Student & Employee,Post Graduate(PG),IT Sector,NULL,NULL,No,DB,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,Yes,No
+43668.9395,Yes,Imran,Isra,Female,18 to 30,Employee,NULL,NULL,NULL,IT Sector,Yes,NULL,NULL,Self,Yourself,Monthly,Below 5000,Yes,Other,NULL,NULL,NULL,No,Yes,No
+43668.94815,Yes,Mehdi jaffry,Yezdi Iram,Female,18 to 30,Employee,NULL,NULL,NULL,IT Sector,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,Below 5000,Yes,Yes,No
+43670.82784,Yes,Raghul,Rameez sayyed,Male,18 to 30,Employee,NULL,NULL,NULL,IT Sector,Yes,NULL,NULL,Family,Parent,Annually,"20,000 and More",Yes,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,No,Yes,No
+43671.92836,Yes,nijam,moin sayyad,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"NN,CA,DB",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,Yes,No
+43671.93117,Yes,amol,akash sonwane,Male,18 to 30,Student,NULL,NULL,12th (HSC),NULL,No,"NN,CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,Yes,No
+43671.93213,Yes,ashok ,amit gunware,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Government,Yes,NULL,NULL,Family,Yourself,Annually,"Between 5,000 and  9,999",N/A,Star Health & Allied Insurance Company Limited,NULL,NULL,NULL,No,Yes,No
+43671.93336,Yes,suraj ,amol survase,Male,30 to 50,All,P.h.D,Business,NULL,NULL,Yes,NULL,NULL,Family,Yourself,Annually,"Between 10,000 and 19,999",N/A,Apollo Munich Health Insurance Company Limited,NULL,NULL,NULL,Yes,Yes,No
+43671.93406,Yes,suresh,surekha prajapati,Female,18 to 30,Student & Employee,Post Graduate(PG),IT Sector,NULL,NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 5,000 and  9,999",NULL,Yes,No
+43671.93493,Yes,suresh,sanjivni pillay,Female,18 to 30,Student & Employee,Under Graduate(UG),Semi Government,NULL,NULL,No,"NN,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Annually,"Between 5,000 and  9,999",NULL,Yes,No
+43671.93617,Yes,suresh,mohan khandagle,Male,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,"NN,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Half Yearly,Below 5000,NULL,Yes,No
+43671.94534,Yes,ajay,ashish galande,Male,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Half Yearly,Below 5000,NULL,Yes,No
+43671.94751,Yes,sahil,sohel shekh,Male,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Half Yearly,Below 5000,Yes,Yes,No
+43671.94834,Yes,sahil,amir shekh,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Half Yearly,"Between 5,000 and  9,999",No,Yes,No
+43671.94917,Yes,sahil,sneha shaikh,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 5,000 and  9,999",No,Yes,No
+43671.94999,Yes,sahil,sajid gani,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"NN,CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 10,000 and 19,999",No,Yes,No
+43671.95094,Yes,sahil,julekha pathan,Female,18 to 30,Student & Employee,Post Graduate(PG),Government,NULL,NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,Below 5000,No,Yes,No
+43673.86193,Yes,survase rohit ,shanwaj shaikh,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Annually,"Between 10,000 and 19,999",NULL,Yes,No
+43673.86277,Yes,rohit shrma,ishwar shinde,Male,18 to 30,Employee,NULL,NULL,NULL,Business,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Half Yearly,"Between 5,000 and  9,999",NULL,Yes,No
+43673.86325,Yes,survase rohit ,shinde pawan,Male,18 to 30,Employee,NULL,NULL,NULL,Business,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,No
+43673.86402,Yes,survase rohit ,govind sakat,Male,18 to 30,Student & Employee,Under Graduate(UG),IT Sector,NULL,NULL,Yes,NULL,NULL,Family,Company,Annually,"Between 5,000 and  9,999",N/A,Star Health & Allied Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43673.8686,Yes,survase rohit ,suravase rohit,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,No
+43673.86934,Yes,survase rohit ,saluke rohit,Male,30 to 50,Student & Employee,Post Graduate(PG),Government,NULL,NULL,Yes,NULL,NULL,Self,Yourself,Annually,"Between 5,000 and  9,999",Yes,Star Health & Allied Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43673.87035,Yes,survase rohit ,ajay satpute,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Family,Yourself,Annually,"Between 10,000 and 19,999",N/A,Star Health & Allied Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43674.72953,Yes,Imran,sham kamble,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,Yes,NULL,NULL,Self,Parent,Annually,"Between 5,000 and  9,999",N/A,SBI Health Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43674.73027,Yes,Imran,rohit sonwane,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Family,Yourself,Annually,"Between 10,000 and 19,999",Yes,SBI Health Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43674.73137,Yes,Imran,atul bhosale,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Family,Yourself,Annually,"Between 10,000 and 19,999",Yes,SBI Health Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43674.73194,Yes,Imran,rutuja pokharkar,Female,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,No
+43674.73249,Yes,Imran,pradnya shelke,Female,18 to 30,Parent,NULL,NULL,NULL,NULL,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,No
+43674.73336,Yes,pradnya shelke,amit pande,Male,18 to 30,Parent & Employee,NULL,NULL,NULL,Agriculture,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 5,000 and  9,999",No,Yes,No
+43674.73404,Yes,pradnya shelke,ajay sakhra,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Agriculture,No,"NN,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"Between 5,000 and  9,999",No,Yes,No
+43674.73476,Yes,pradnya shelke,pansare amit,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Agriculture,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Half Yearly,Below 5000,No,Yes,No
+43674.73577,Yes,pradnya shelke,amol parande,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Family,Yourself,Monthly,"Between 5,000 and  9,999",Yes,SBI Health Insurance Company Limited,NULL,NULL,NULL,No,Yes,No
+43674.73669,Yes,pradnya shelke,ashok sable,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Self,Yourself,Annually,"Between 10,000 and 19,999",Yes,SBI Health Insurance Company Limited,NULL,NULL,NULL,No,Yes,No
+43674.73682,Yes,pradnya shelke,ashok sable,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Self,Yourself,Annually,"Between 10,000 and 19,999",Yes,SBI Health Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43674.7436,Yes,Imran,amit shinde,Male,30 to 50,All,Post Graduate(PG),IT Sector,NULL,NULL,Yes,NULL,NULL,Self,Company,Annually,"Between 5,000 and  9,999",Yes,Apollo Munich Health Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43674.74434,Yes,Imran,rohit shrma,Male,18 to 30,Student & Employee,Under Graduate(UG),Other,NULL,NULL,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,No
+43674.74501,Yes,Imran,abhilasha gutte,Female,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Half Yearly,"Between 5,000 and  9,999",NULL,Yes,No
+43674.74566,Yes,Imran,asad shaikh,Male,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,"NN,CA,DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,No
+43674.74776,Yes,nirma,ankita jadhav,Female,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"NN,CA",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,No
+43674.74856,Yes,ajinkya bohite,anis nadaf,Male,18 to 30,Student & Employee,Under Graduate(UG),IT Sector,NULL,NULL,No,"NN,CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 5,000 and  9,999",NULL,Yes,No
+43674.75051,Yes,ajinkya bohite,karan narwate,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Half Yearly,"Between 5,000 and  9,999",NULL,Yes,No
+43674.75165,Yes,ajinkya bohite,tanvi jadhav,Female,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Half Yearly,Below 5000,NULL,Yes,No
+43674.75264,Yes,ajinkya bohite,shubham ,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"NN,CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"Between 5,000 and  9,999",NULL,Yes,No
+43674.75405,Yes,ajinkya bohite,shubham tapkir,Male,18 to 30,Student & Employee,Under Graduate(UG),Business,NULL,NULL,Yes,NULL,NULL,Self,Parent,Annually,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43674.76449,Yes,Imran,sohel shaikh,Male,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,"NN,CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Half Yearly,"Between 5,000 and  9,999",NULL,Yes,No
+43674.76526,Yes,Imran,sneha jadhav,Female,18 to 30,Student & Employee,Post Graduate(PG),Other,NULL,NULL,Yes,NULL,NULL,Self,Parent,Annually,"Between 10,000 and 19,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43674.76594,Yes,Imran,surekha mungale,Female,18 to 30,Parent & Employee,NULL,NULL,NULL,IT Sector,Yes,NULL,NULL,Family,Company,Annually,"Between 10,000 and 19,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43674.76676,Yes,Imran,pradip udgirkr,Male,18 to 30,Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Self,Company,Annually,"Between 10,000 and 19,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43674.76756,Yes,Imran,umesh gaikwad,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Self,Yourself,Annually,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43674.76844,Yes,pradip,porushttam nagargoje,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Agriculture,No,"NN,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Annually,"Between 5,000 and  9,999",NULL,Yes,No
+43674.76987,Yes,akash jadhav,banty phuge,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Family,Parent,Annually,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43675.60203,Yes,Mehdi mam,Saniya,Female,18 to 30,Student,NULL,NULL,Under Graduate,NULL,Yes,NULL,NULL,Individual,Parent,Annually,"Between 5,000 and  9,999",Yes,SBI Health Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43675.60257,Yes,Mehdi mam,Shaikh Firdaus Hanif,Female,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,Below 5000,NULL,Yes,No
+43675.77092,Yes,Imran,aishwarya takle,Female,30 to 50,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Self,Yourself,Annually,"Between 5,000 and  9,999",N/A,Star Health & Allied Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43675.77155,Yes,Imran,sahil bagwan,Male,30 to 50,All,Post Graduate(PG),Semi Government,NULL,NULL,Yes,NULL,NULL,Family,Yourself,Annually,"Between 10,000 and 19,999",N/A,Star Health & Allied Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43675.77214,Yes,Imran,sohel,Male,30 to 50,All,Under Graduate(UG),Business,NULL,NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 10,000 and 19,999",NULL,Yes,No
+43676.92655,Yes,survase rohit ,shradda patel,Female,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"NN,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 10,000 and 19,999",NULL,Yes,No
+43676.92725,Yes,survase rohit ,ramesh nilange,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Family,Yourself,Annually,"Between 5,000 and  9,999",Yes,Star Health & Allied Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.9279,Yes,survase rohit ,shilpa bora,Female,1 to 17,Student,NULL,NULL,12th (HSC),NULL,Yes,NULL,NULL,Self,Parent,Annually,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.92877,Yes,survase rohit ,vaishali shinde,Male,1 to 17,Student,NULL,NULL,12th (HSC),NULL,Yes,NULL,NULL,Family,Parent,Annually,"Between 5,000 and  9,999",N/A,Apollo Munich Health Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.92944,Yes,survase rohit ,anushka,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,Yes,NULL,NULL,Self,Parent,Annually,"Between 5,000 and  9,999",N/A,Apollo Munich Health Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.93015,Yes,survase rohit ,vedika ghorpade,Female,18 to 30,Parent & Employee,NULL,NULL,NULL,Semi Government,Yes,NULL,NULL,Family,Parent,Monthly,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.93093,Yes,survase rohit ,amruta khandare,Female,18 to 30,Student & Employee,Post Graduate(PG),Government,NULL,NULL,Yes,NULL,NULL,Family,Parent,Quarterly,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.9316,Yes,survase rohit ,swapnika shinde,Female,18 to 30,Student & Employee,Post Graduate(PG),Government,NULL,NULL,Yes,NULL,NULL,Family,Parent,Quarterly,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.95059,Yes,survase rohit ,waghmare samiksha,Female,30 to 50,All,P.h.D,Government,NULL,NULL,Yes,NULL,NULL,Family,Company,Half Yearly,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.95149,Yes,survase rohit ,tulsi shinde,Female,30 to 50,All,P.h.D,Government,NULL,NULL,Yes,NULL,NULL,Self,Company,Annually,"Between 5,000 and  9,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.95223,Yes,Imran,alveera shaikh,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 5,000 and  9,999",NULL,Yes,No
+43676.95288,Yes,alveera shaikh,madiha shaikh,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Annually,"Between 5,000 and  9,999",NULL,Yes,No
+43676.95368,Yes,alveera shaikh,shravani sonwane,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"NN,CA,DB,DISS",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Half Yearly,"Between 5,000 and  9,999",NULL,Yes,No
+43676.95477,Yes,alveera shaikh,janvi salunke,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"NN,CA,DB,DISS",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Monthly,Below 5000,NULL,Yes,No
+43676.95564,Yes,alveera shaikh,reshma sjaikh,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,Yes,NULL,NULL,Self,Parent,Annually,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.95634,Yes,alveera shaikh,aisha shaikh,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"NN,CA,DB,DISS",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 10,000 and 19,999",NULL,Yes,No
+43676.95712,Yes,alveera shaikh,alisha shaikh,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Half Yearly,Below 5000,NULL,Yes,No
+43676.95783,Yes,alveera shaikh,alisha pathan,Female,18 to 30,Student & Employee,Post Graduate(PG),IT Sector,NULL,NULL,Yes,NULL,NULL,Self,Company,Annually,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.95861,Yes,alveera shaikh,alisha shaikh,Female,18 to 30,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Family,Yourself,Annually,"Between 10,000 and 19,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.96269,Yes,aisha,mohini jadhav,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,Yes,NULL,NULL,Self,Parent,Quarterly,Below 5000,N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.96337,Yes,aisha,mohini satpute,Female,18 to 30,Student & Employee,Post Graduate(PG),IT Sector,NULL,NULL,Yes,NULL,NULL,Self,Parent,Quarterly,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.96413,Yes,aisha,payal pillay,Female,30 to 50,All,P.h.D,Government,NULL,NULL,Yes,NULL,NULL,Family,Yourself,Annually,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,Yes,No
+43676.96493,Yes,aisha,muskan patel,Female,30 to 50,All,P.h.D,Government,NULL,NULL,No,DB,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,No
+43676.9658,Yes,aisha,najiya siddiq,Female,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 5,000 and  9,999",NULL,Yes,No
+43676.9665,Yes,Imran,madiha rasool shaikh,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Quarterly,"Between 5,000 and  9,999",NULL,Yes,No
+43676.97803,Yes,aisha,shabeena shaikh,Female,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Quarterly,Below 5000,NULL,Yes,No
+43676.97882,Yes,aisha,firdaus pathan,Female,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,Below 5000,NULL,Yes,No
+43676.97945,Yes,aisha,arif shaikh,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,"NN,CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,Yes,No
+43676.98079,Yes,arif shaikh,ajju shaikh,Male,30 to 50,All,P.h.D,Business,NULL,NULL,Yes,NULL,NULL,Family,Yourself,Annually,"Between 10,000 and 19,999",N/A,Apollo Munich Health Insurance Company Limited,NULL,NULL,NULL,No,Yes,No
+43676.98678,Yes,akshay satav,amol sangme,Male,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,"NN,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Quarterly,Below 5000,No,Yes,No
+43676.98745,Yes,akshay satav,sunil yadav,Male,51 to 60,Parent & Employee,NULL,NULL,NULL,Agriculture,No,"NN,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Quarterly,Below 5000,Yes,Yes,No
+43676.98807,Yes,akshay satav,rohan navgire,Male,51 to 60,Parent & Employee,NULL,NULL,NULL,Agriculture,No,"NN,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Quarterly,Below 5000,No,Yes,No
+43676.98884,Yes,akshay satav,sonawane suraj,Male,51 to 60,Parent & Employee,NULL,NULL,NULL,Agriculture,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"20,000 and More",Yes,Yes,No
+43676.9896,Yes,akshay satav,rohan waghmare,Male,51 to 60,Parent & Employee,NULL,NULL,NULL,Agriculture,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"20,000 and More",Yes,Yes,No
+43676.99037,Yes,akshay satav,abhimanyu jadhhav,Male,51 to 60,Parent & Employee,NULL,NULL,NULL,Agriculture,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"20,000 and More",Yes,Yes,No
+43676.99238,Yes,akshay satav,kishor nikam,Male,51 to 60,Parent & Employee,NULL,NULL,NULL,Agriculture,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"20,000 and More",Yes,Yes,No
+43676.9939,Yes,akshay satav,ashish wankhede,Male,51 to 60,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Family,Company,Half Yearly,"20,000 and More",N/A,Apollo Munich Health Insurance Company Limited,NULL,NULL,NULL,Yes,Yes,No
+43676.99455,Yes,akshay satav,satwa chodhari,Male,51 to 60,Parent & Employee,NULL,NULL,NULL,Government,Yes,NULL,NULL,Family,Company,Half Yearly,"20,000 and More",N/A,Apollo Munich Health Insurance Company Limited,NULL,NULL,NULL,No,,No
+43676.99543,Yes,akshay satav,shubham panchal,Male,30 to 50,All,P.h.D,Government,NULL,NULL,Yes,NULL,NULL,Family,Company,Half Yearly,"20,000 and More",Yes,Apollo Munich Health Insurance Company Limited,NULL,NULL,NULL,No,,No
+43677.8839,Yes,amit ,sudhir mali,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Agriculture,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Quarterly,Below 5000,No,,No
+43677.88457,Yes,Imran,sopan kagade,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Government,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,No
+43677.88531,Yes,Imran,amit jagtap,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Agriculture,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,No
+43677.90366,Yes,Imran,vishal  sakhre,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,No
+43677.90421,Yes,vishal sakhre ,sneha jadhav,Female,18 to 30,Employee,NULL,NULL,NULL,Semi Government,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,No
+43677.90491,Yes,vishal sakhre ,ajay jadhva,Male,18 to 30,Student & Employee,Under Graduate(UG),IT Sector,NULL,NULL,Yes,NULL,NULL,Self,Company,Annually,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,Yes,,No
+43677.9055,Yes,vishal sakhre ,avinash sakhare,Male,18 to 30,Parent,NULL,NULL,NULL,NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"20,000 and More",NULL,,No
+43677.90609,Yes,vishal sakhre ,tushar mahadik,Male,18 to 30,Parent,NULL,NULL,NULL,NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"20,000 and More",NULL,,No
+43677.90669,Yes,vishal sakhre ,ashish wadekar,Male,18 to 30,Parent,NULL,NULL,NULL,NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"20,000 and More",NULL,,No
+43677.9073,Yes,vishal sakhre ,supriya pathare,Female,18 to 30,Parent,NULL,NULL,NULL,NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"20,000 and More",NULL,,No
+43677.90832,Yes,vishal sakhre ,aniket sakhare,Male,30 to 50,All,P.h.D,Government,NULL,NULL,Yes,NULL,NULL,Family,Company,Half Yearly,"20,000 and More",N/A,New India Assurance Company Limited,NULL,NULL,NULL,NULL,,No
+43677.90907,Yes,vishal sakhre ,aparna shinde,Female,30 to 50,Parent & Employee,NULL,NULL,NULL,Semi Government,Yes,NULL,NULL,Family,Company,Half Yearly,"20,000 and More",N/A,New India Assurance Company Limited,NULL,NULL,NULL,NULL,,No
+43677.90971,Yes,vishal sakhre ,aparna deshmukh,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,Yes,NULL,NULL,Individual,Parent,Quarterly,Below 5000,N/A,New India Assurance Company Limited,NULL,NULL,NULL,NULL,,No
+43677.91073,Yes,vishal sakhre ,ankita jadhav,Female,1 to 17,Student,NULL,NULL,12th (HSC),NULL,Yes,NULL,NULL,Self,Parent,Quarterly,Below 5000,N/A,New India Assurance Company Limited,NULL,NULL,NULL,NULL,,No
+43677.91139,Yes,vishal sakhre ,aniket mahajn,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"NN,CA,DB,DISS",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"20,000 and More",NULL,,No
+43677.91209,Yes,vishal sakhre ,somnath kakde,Male,18 to 30,Student & Employee,Post Graduate(PG),Government,NULL,NULL,Yes,NULL,NULL,Self,Company,Quarterly,"Between 5,000 and  9,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,NULL,,No
+43677.91293,Yes,vishal sakhre ,swapnil murlidhar jadhav,Male,30 to 50,All,Post Graduate(PG),Semi Government,NULL,NULL,Yes,NULL,NULL,Individual,Company,Quarterly,"Between 10,000 and 19,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,NULL,,No
+43677.91357,Yes,vishal sakhre ,feroj shaikh,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Semi Government,No,"NN,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Monthly,"Between 10,000 and 19,999",NULL,,No
+43677.91445,Yes,vishal sakhre ,omkar mane,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Semi Government,Yes,NULL,NULL,Individual,Yourself,Quarterly,"Between 10,000 and 19,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,NULL,,No
+43677.91637,Yes,vishal sakhre ,shrikant mane,Male,18 to 30,Parent & Employee,NULL,NULL,NULL,Semi Government,Yes,NULL,NULL,Individual,Yourself,Quarterly,"Between 5,000 and  9,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,NULL,,No
+43679.93021,Yes,Imran,rohit kamble,Male,18 to 30,Student & Employee,Under Graduate(UG),IT Sector,NULL,NULL,Yes,NULL,NULL,Self,Company,Annually,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,,No
+43679.93088,Yes,rohit kamble,someshwar shinde,Male,18 to 30,Employee,NULL,NULL,NULL,Agriculture,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,No
+43679.93145,Yes,rohit kamble ,sujata patil,Female,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,No
+43679.93209,Yes,kamble rohit,sushmita ,Female,18 to 30,Student,NULL,NULL,Post Graduate,NULL,Yes,NULL,NULL,Self,Parent,Half Yearly,"20,000 and More",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,,No
+43679.93273,Yes,rohit kamble,aishwarya pillay,Female,18 to 30,Student,NULL,NULL,P.h.D,NULL,Yes,NULL,NULL,Self,Parent,Quarterly,"Between 5,000 and  9,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,,No
+43679.93337,Yes,rohit kamble,udit jadhav,Male,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,No
+43679.934,Yes,Imran,udit kabre,Male,18 to 30,Parent & Employee,NULL,NULL,NULL,Government,Yes,NULL,NULL,Family,Yourself,Half Yearly,"Between 10,000 and 19,999",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,NULL,,No
+43679.93457,Yes,rohit shrma,suraj survase,Male,18 to 30,Parent & Employee,NULL,NULL,NULL,Semi Government,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,No
+43679.93525,Yes,rohit shrma,harshad gaikwad,Male,30 to 50,All,P.h.D,Semi Government,NULL,NULL,Yes,NULL,NULL,Family,Yourself,Half Yearly,"20,000 and More",N/A,Bajaj Allianz General Insurance Company Limited,NULL,NULL,NULL,Yes,,No
+43679.93596,Yes,rohit shrma,swapnil bakar,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,No
+43679.93719,Yes,rohit shrma ,om bankar,Male,18 to 30,Employee,NULL,NULL,NULL,Business,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,No
+43679.93782,Yes,rohit shrma,suraj tapkir,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"NN,CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"Between 10,000 and 19,999",No,,No
+43679.93828,Yes,rohit shrma,tapkir shivani,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,No,"NN,CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,No
+43679.939,Yes,rohit shrma,shivani jadav,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,Yes,NULL,NULL,Family,Parent,Half Yearly,"Between 10,000 and 19,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,No,,No
+43679.9396,Yes,shivani tapkir,shivani sable,Female,30 to 50,Parent & Employee,NULL,NULL,NULL,Semi Government,Yes,NULL,NULL,Family,Company,Half Yearly,"Between 10,000 and 19,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,No,,No
+43679.9402,Yes,shivani tapkir,sanjivani bhosale,Female,51 to 60,Parent & Employee,NULL,NULL,NULL,Government,Yes,NULL,NULL,Family,Yourself,Annually,"20,000 and More",N/A,New India Assurance Company Limited,NULL,NULL,NULL,No,,No
+43679.9409,Yes,shivani tapkir,shilpa bora,Female,51 to 60,All,P.h.D,Semi Government,NULL,NULL,Yes,NULL,NULL,Individual,Yourself,Half Yearly,"Between 10,000 and 19,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,No,,No
+43679.94146,Yes,shivani tapkir,rohini landge,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,No,"NN,CA,DB,DISS",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Quarterly,"Between 10,000 and 19,999",Yes,,No
+43679.94217,Yes,Imran,anwar shaikh,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Government,No,"NN,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Half Yearly,"Between 10,000 and 19,999",No,,No
+43679.94286,Yes,Imran,minanath lohakare,Male,18 to 30,Student & Employee,Under Graduate(UG),Business,NULL,NULL,No,"NN,CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,No
+43679.94336,Yes,Imran,vishal sakhare,Male,18 to 30,Student & Employee,Post Graduate(PG),Other,NULL,NULL,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,No
+43679.9439,Yes,Imran,vishal khandagle,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Other,No,"NN,CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,No
+43679.94443,Yes,Imran,vishal jagtap,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Family,Yourself,Half Yearly,"Between 10,000 and 19,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,Yes,,No
+43679.94493,Yes,vishal khandagle,soham prajapati,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Other,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,No
+43679.94552,Yes,vishal khandagle,priti jadhav,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Half Yearly,"Between 10,000 and 19,999",Yes,,No
+43679.94607,Yes,vishal khandagle,rohini kumar,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Half Yearly,"Between 10,000 and 19,999",Yes,,No
+43679.9467,Yes,vishal khandagle,manisha kamble,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Annually,"Between 10,000 and 19,999",No,,No
+43679.95355,Yes,vishal khandagle,arpita chavan,Female,18 to 30,Parent,NULL,NULL,NULL,NULL,Yes,NULL,NULL,Individual,Yourself,Half Yearly,"Between 5,000 and  9,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,Yes,,No
+43679.95433,Yes,vishal khandagle,arti deshmukh,Female,30 to 50,Parent & Employee,NULL,NULL,NULL,Other,Yes,NULL,NULL,Individual,Yourself,Half Yearly,"Between 10,000 and 19,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,Yes,,No
+43679.955,Yes,Imran,manoj umbargikar,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,No
+43679.95562,Yes,Imran,salunke rohit,Male,18 to 30,Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Family,Parent,Annually,"Between 10,000 and 19,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,No,,No
+43679.95657,Yes,Imran,nirmale pradnya,Female,18 to 30,Parent,NULL,NULL,NULL,NULL,Yes,NULL,NULL,Individual,Yourself,Half Yearly,Below 5000,N/A,New India Assurance Company Limited,NULL,NULL,NULL,Yes,,No
+43679.95721,Yes,Imran,anjali kamble,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,Yes,NULL,NULL,Individual,Yourself,Half Yearly,Below 5000,N/A,New India Assurance Company Limited,NULL,NULL,NULL,Yes,,No
+43679.9578,Yes,Imran,komal prande,Female,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,"NN,CA,DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,No
+43679.95836,Yes,Imran,rehana shaikh,Female,18 to 30,Student & Employee,Post Graduate(PG),IT Sector,NULL,NULL,No,"NN,DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,No
+43679.95899,Yes,rehan shaikh,rijwan bagwan,Female,30 to 50,Parent & Employee,NULL,NULL,NULL,IT Sector,Yes,NULL,NULL,Individual,Yourself,Half Yearly,"Between 10,000 and 19,999",N/A,Other,NULL,NULL,NULL,Yes,,No
+43679.95971,Yes,rehana shaikh,rajiya pathan,Female,30 to 50,Parent & Employee,NULL,NULL,NULL,IT Sector,Yes,NULL,NULL,Individual,Yourself,Annually,Below 5000,N/A,Other,NULL,NULL,NULL,Yes,,No
+43679.9604,Yes,rehan shaikh,rajiya tamboli,Female,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,"NN,DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,No
+43679.96204,Yes,rajiya shaikh,samrudhi ,Female,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,CA,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,No
+43679.96263,Yes,rajiya shaikh,nandini mishra,Female,18 to 30,Parent & Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Individual,Yourself,Half Yearly,Below 5000,N/A,Other,NULL,NULL,NULL,Yes,,No
+43679.96323,Yes,rajiya shaikh,suhani tambe,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,Yes,NULL,NULL,Individual,Yourself,Half Yearly,"20,000 and More",N/A,Other,NULL,NULL,NULL,No,,
+43679.96381,Yes,rajiya shaikh,anita deshpande,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,Yes,NULL,NULL,Individual,Yourself,Annually,"Between 10,000 and 19,999",N/A,Other,NULL,NULL,NULL,No,,
+43679.96448,Yes,rajiya shaikh,sunita chavan,Female,1 to 17,Student,NULL,NULL,12th (HSC),NULL,Yes,NULL,NULL,Self,Parent,Annually,"Between 5,000 and  9,999",N/A,Other,NULL,NULL,NULL,No,,
+43679.96514,Yes,Imran,robin pillay,Male,18 to 30,Employee,NULL,NULL,NULL,Business,Yes,NULL,NULL,Family,Parent,Annually,"20,000 and More",N/A,SBI Health Insurance Company Limited,NULL,NULL,NULL,No,,
+43679.96565,Yes,Imran,wasim nadaf,Male,30 to 50,Employee,NULL,NULL,NULL,Other,No,CA,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,
+43679.9663,Yes,Imran,dipak nagrgoje,Male,18 to 30,Employee,NULL,NULL,NULL,Other,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Annually,Below 5000,No,,
+43679.96687,Yes,Imran,digambar,Male,18 to 30,Employee,NULL,NULL,NULL,IT Sector,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43679.96755,Yes,Imran,akash laturkar,Male,30 to 50,All,P.h.D,Government,NULL,NULL,Yes,NULL,NULL,Family,Company,Annually,"Between 10,000 and 19,999",N/A,SBI Health Insurance Company Limited,NULL,NULL,NULL,Yes,,
+43679.96817,Yes,Imran,dipak kulkarni,Male,30 to 50,All,P.h.D,Semi Government,NULL,NULL,Yes,NULL,NULL,Individual,Yourself,Annually,"Between 10,000 and 19,999",N/A,SBI Health Insurance Company Limited,NULL,NULL,NULL,Yes,,
+43679.96876,Yes,navaj,abhijit gunware,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,"NN,CA",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43679.9692,Yes,navaj,shakila shaikh,Female,18 to 30,Parent,NULL,NULL,NULL,NULL,No,"NN,CA",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43679.96976,Yes,navaj,latif shaikh,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Other,No,"NN,CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43679.97032,Yes,navaj,karishma sakat,Female,18 to 30,Employee,NULL,NULL,NULL,IT Sector,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43679.97075,Yes,navaj ,ashok sakat,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,IT Sector,No,"NN,CA",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43679.97129,Yes,navaj,pankaj patil,Male,18 to 30,Employee,NULL,NULL,NULL,Other,No,"DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43679.97174,Yes,navaj,keshav sutar,Male,1 to 17,Student,NULL,NULL,12th (HSC),NULL,No,"DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43679.97245,Yes,navaj,anil udgirkar,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43681.5081,Yes,sohel shaikh,aksa saudagar,Female,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,CA,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43681.50867,Yes,sohel shaikh,saziya shaikh,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,Yes,NULL,NULL,Self,Parent,Annually,"Between 10,000 and 19,999",N/A,Other,NULL,NULL,NULL,Yes,,
+43681.50942,Yes,sohel shaikh,tawaqqal husen,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,Yes,NULL,NULL,Self,Parent,Half Yearly,"Between 10,000 and 19,999",N/A,Other,NULL,NULL,NULL,Yes,,
+43681.5099,Yes,sohel shaikh,mehwish khan,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,Yes,NULL,NULL,Family,Yourself,Annually,"Between 10,000 and 19,999",N/A,Other,NULL,NULL,NULL,Yes,,
+43681.51041,Yes,sohel shaikh,sidra pathan,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Annually,"Between 10,000 and 19,999",No,,
+43681.51093,Yes,sohel shaikh,zahid shaikh,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Semi Government,Yes,NULL,NULL,Family,Company,Annually,"Between 10,000 and 19,999",N/A,Other,NULL,NULL,NULL,No,,
+43681.51153,Yes,sohel shaikh,zoya ali,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,CA,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.51197,Yes,zoya ali,khan mehwish,Female,30 to 50,Parent,NULL,NULL,NULL,NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 5,000 and  9,999",No,,
+43681.51252,Yes,zoya ali,asif khan,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,Yes,NULL,NULL,Self,Parent,Annually,"Between 5,000 and  9,999",N/A,Other,NULL,NULL,NULL,No,,
+43681.51316,Yes,zoya ali,mariyam shaikh,Female,18 to 30,Student & Employee,Under Graduate(UG),IT Sector,NULL,NULL,Yes,NULL,NULL,Self,Company,Annually,"Between 10,000 and 19,999",N/A,Other,NULL,NULL,NULL,No,,
+43681.51378,Yes,zoya ali,soha ali khan,Female,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Half Yearly,"Between 5,000 and  9,999",Yes,,
+43681.51434,Yes,zoya ali,misbah ajaj,Female,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.51488,Yes,zoya ali,sadiya chaudary,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,"DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.5154,Yes,zoya ali,tehrin bagwan,Female,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,"DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.51601,Yes,zoya ali,usama ansari,Male,18 to 30,Student & Employee,Post Graduate(PG),IT Sector,NULL,NULL,Yes,NULL,NULL,Self,Company,Annually,"Between 10,000 and 19,999",N/A,Other,NULL,NULL,NULL,No,,
+43681.51673,Yes,zoya ali,nijam lukade,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.5172,Yes,zoya ali,mehek shaikh,Male,1 to 17,Student,NULL,NULL,1st to 9th,NULL,No,"DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.51761,Yes,zoya ali,shaikh rabiya,Female,1 to 17,Student,NULL,NULL,1st to 9th,NULL,No,"DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.51813,Yes,zoya ali,sahil bangi,Male,1 to 17,Student,NULL,NULL,1st to 9th,NULL,No,DB,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,
+43681.51873,Yes,shaikh mehek,umar shaikh,Male,1 to 17,Student,NULL,NULL,1st to 9th,NULL,Yes,NULL,NULL,Self,Parent,Annually,"Between 5,000 and  9,999",N/A,SBI Health Insurance Company Limited,NULL,NULL,NULL,Yes,,
+43681.5193,Yes,shaikh mehek,ayesha ali,Female,1 to 17,Student,NULL,NULL,1st to 9th,NULL,Yes,NULL,NULL,Family,Parent,Annually,"Between 10,000 and 19,999",N/A,SBI Health Insurance Company Limited,NULL,NULL,NULL,Yes,,
+43681.51995,Yes,shaikh mehek,manish singh,Male,1 to 17,Student,NULL,NULL,1st to 9th,NULL,Yes,NULL,NULL,Family,Parent,Annually,"Between 5,000 and  9,999",N/A,SBI Health Insurance Company Limited,NULL,NULL,NULL,No,,
+43681.5207,Yes,shaikh mehek,Arya singh,Male,1 to 17,Student,NULL,NULL,1st to 9th,NULL,Yes,NULL,NULL,Family,Parent,Annually,"Between 5,000 and  9,999",No,SBI Health Insurance Company Limited,NULL,NULL,NULL,No,,
+43681.53164,Yes,shaikh mehek,sarfaraj shaikh,Male,1 to 17,Student,NULL,NULL,1st to 9th,NULL,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.53224,Yes,misbah,riayasat shaikh,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,Yes,NULL,NULL,Self,Parent,Annually,"Between 5,000 and  9,999",N/A,Other,NULL,NULL,NULL,No,,
+43681.53293,Yes,misbah,saifudin shaikh,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,Yes,NULL,NULL,Family,Parent,Half Yearly,"Between 5,000 and  9,999",No,Other,NULL,NULL,NULL,No,,
+43681.53375,Yes,misbah,sumer sayyad,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Monthly,Below 5000,Yes,,
+43681.5344,Yes,misbah,soofia shaikh,Female,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Monthly,Below 5000,No,,
+43681.53515,Yes,misbah,sanket tiwari,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Monthly,Below 5000,No,,
+43681.53589,Yes,misbah,altamash mohammda,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Monthly,Below 5000,No,,
+43681.53652,Yes,misbah,yash chudari,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,Yes,NULL,NULL,Family,Parent,Quarterly,"Between 5,000 and  9,999",Yes,SBI Health Insurance Company Limited,NULL,NULL,NULL,No,,
+43681.53722,Yes,sajiya shaikh,ahmd shaikh,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,Yes,NULL,NULL,Individual,Parent,Quarterly,"Between 5,000 and  9,999",No,SBI Health Insurance Company Limited,NULL,NULL,NULL,Yes,,
+43681.53786,Yes,sajiya shaikh,pratik gauhana,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,Yes,NULL,NULL,Individual,Parent,Quarterly,"Between 5,000 and  9,999",Yes,SBI Health Insurance Company Limited,NULL,NULL,NULL,Yes,,
+43681.53861,Yes,sajiya shaikh,pratamesh jhanjare,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,Yes,NULL,NULL,Individual,Parent,Quarterly,"Between 5,000 and  9,999",Yes,SBI Health Insurance Company Limited,NULL,NULL,NULL,Yes,,
+43681.53931,Yes,Mehdi mam,edrees ahemad,Male,30 to 50,Student & Employee,Post Graduate(PG),IT Sector,NULL,NULL,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,
+43681.53996,Yes,Mehdi mam,salim shaikh,Male,30 to 50,All,P.h.D,IT Sector,NULL,NULL,No,"NN,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.5406,Yes,Mehdi mam,umair sayyad,Male,30 to 50,All,Post Graduate(PG),IT Sector,NULL,NULL,Yes,NULL,NULL,Individual,Yourself,Half Yearly,"Between 5,000 and  9,999",Yes,New India Assurance Company Limited,NULL,NULL,NULL,Yes,,
+43681.54115,Yes,Mehdi mam,salman qureshi,Male,30 to 50,All,P.h.D,Business,NULL,NULL,No,DB,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,
+43681.5417,Yes,Imran,yakoob ansari,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Agriculture,No,CA,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.54387,Yes,Imran,jawed sayyad,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Semi Government,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Individual,Monthly,Below 5000,Yes,,
+43681.54462,Yes,Imran,ayesha shaikh,Female,18 to 30,Parent & Employee,NULL,NULL,NULL,Semi Government,Yes,NULL,NULL,Family,Company,Annually,"Between 5,000 and  9,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,Yes,,
+43681.54515,Yes,Imran,arman ansari,Male,18 to 30,Student & Employee,Post Graduate(PG),Business,NULL,NULL,No,DISS,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,
+43681.56795,Yes,sajiya shaikh,aman hussain,Male,18 to 30,Student & Employee,Post Graduate(PG),IT Sector,NULL,NULL,No,CA,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.56867,Yes,Mehdi mam,rehan patel,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Semi Government,Yes,NULL,NULL,Family,Yourself,Annually,"Between 10,000 and 19,999",Yes,New India Assurance Company Limited,NULL,NULL,NULL,No,,
+43681.57094,Yes,Mehdi mam,aijas sayyad,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Semi Government,No,DB,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,
+43681.57332,Yes,Mehdi mam,numan qadari,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Semi Government,No,"DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,
+43681.57422,Yes,Mehdi mam,sameer ansari,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Semi Government,No,DB,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.57507,Yes,zahid shaikh,khan zamran,Male,1 to 17,Student,NULL,NULL,1st to 9th,NULL,No,"DB,DISS",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 10,000 and 19,999",Yes,,
+43681.57581,Yes,zahid shaikh,mustafa kareem,Male,1 to 17,Student,NULL,NULL,1st to 9th,NULL,Yes,NULL,NULL,Individual,Parent,Monthly,Below 5000,N/A,New India Assurance Company Limited,NULL,NULL,NULL,No,,
+43681.57698,Yes,zahid shaikh,kazi mustafa,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,Yes,NULL,NULL,Family,Parent,Monthly,Below 5000,N/A,New India Assurance Company Limited,NULL,NULL,NULL,Yes,,
+43681.57797,Yes,zahid shaikh,zaid ansari,Male,1 to 17,Student,NULL,NULL,1st to 9th,NULL,No,"DB,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.57859,Yes,zahid shaikh,amresh thakur,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 5,000 and  9,999",No,,
+43681.57911,Yes,zahid shaikh,sagar desai,Male,1 to 17,Student,NULL,NULL,10th (SSC),NULL,No,"CA,DISS",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.57968,Yes,zahid shaikh,zuhaib shaikh,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43681.58036,Yes,zahid shaikh,atarsh  jadhav,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"Between 5,000 and  9,999",Yes,,
+43681.58091,Yes,zahid shaikh,mukesh dharmi,Male,18 to 30,Employee,NULL,NULL,NULL,Other,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"Between 5,000 and  9,999",Yes,,
+43681.58162,Yes,zahid shaikh,adnan shaikh,Male,18 to 30,Employee,NULL,NULL,NULL,Other,No,"CA,DB",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"Between 10,000 and 19,999",Yes,,
+43681.58239,Yes,Adarsh,mohammad tanveer,Male,18 to 30,Employee,NULL,NULL,NULL,Other,No,DB,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 10,000 and 19,999",Yes,,
+43681.58324,Yes,Adarsh,nilehs mahajan,Male,18 to 30,Employee,NULL,NULL,NULL,Business,No,DB,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"Between 5,000 and  9,999",No,,
+43681.58396,Yes,Adarsh,mukesh sangme,Male,18 to 30,Employee,NULL,NULL,NULL,Business,No,DB,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,"Between 5,000 and  9,999",No,,
+43681.58483,Yes,Adarsh,saurav mahajan,Male,18 to 30,Employee,NULL,NULL,NULL,Government,No,DB,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 10,000 and 19,999",No,,
+43681.58601,Yes,Adarsh,tauhid inamdar,Male,18 to 30,Employee,NULL,NULL,NULL,Government,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Annually,"Between 10,000 and 19,999",No,,
+43681.58676,Yes,Adarsh,sunny yadav,Male,18 to 30,Employee,NULL,NULL,NULL,Business,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Monthly,Below 5000,No,,
+43681.5875,Yes,Adarsh,umama khan,Male,18 to 30,Employee,NULL,NULL,NULL,Business,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Monthly,Below 5000,Yes,,
+43681.58839,Yes,Adarsh,sadar gawde,Male,18 to 30,Employee,NULL,NULL,NULL,Business,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Monthly,Below 5000,No,,
+43681.58902,Yes,Adarsh,sakib mulani,Male,30 to 50,Employee,NULL,NULL,NULL,Business,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Monthly,Below 5000,No,,
+43681.5907,Yes,manisha,danish jahagir,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Government,Yes,NULL,NULL,Family,Company,Annually,"Between 10,000 and 19,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,No,,
+43681.59235,Yes,manisha,adil khan,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Government,Yes,NULL,NULL,Family,Company,Annually,"Between 10,000 and 19,999",Yes,New India Assurance Company Limited,NULL,NULL,NULL,No,,
+43681.59328,Yes,manisha,sonali shinde,Female,30 to 50,Parent & Employee,NULL,NULL,NULL,Government,Yes,NULL,NULL,Family,Company,Annually,"Between 10,000 and 19,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,NULL,,
+43681.59401,Yes,manisha,dawood shaikh,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Government,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Monthly,Below 5000,NULL,,
+43681.59521,Yes,manisha,arif shaikh,Male,30 to 50,Parent & Employee,NULL,NULL,NULL,Government,Yes,NULL,NULL,Family,Parent,Annually,"Between 10,000 and 19,999",Yes,New India Assurance Company Limited,NULL,NULL,NULL,NULL,,
+43681.59591,Yes,manisha,saqlain nazeer,Male,18 to 30,Employee,NULL,NULL,NULL,IT Sector,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43681.59721,Yes,manisha,dawood shaikh,Male,18 to 30,Employee,NULL,NULL,NULL,Government,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Monthly,Below 5000,NULL,,
+43681.59794,Yes,manisha,amjad abdul,Male,18 to 30,Employee,NULL,NULL,NULL,Government,Yes,NULL,NULL,Family,Company,Annually,"Between 10,000 and 19,999",N/A,New India Assurance Company Limited,NULL,NULL,NULL,NULL,,
+43681.73596,Yes,Imran,Pawan,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,DB,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43681.8005,Yes,Imran,Neha,Female,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,DISS,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,Below 5000,NULL,,
+43683.58051,Yes,sohel shaikh,Shahrukh Khan Pathan,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,NN,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43686.47111,Yes,namarata mam,Nazim Shaikh,Male,18 to 30,Employee,NULL,NULL,NULL,IT Sector,Yes,NULL,NULL,Self,Parent,Annually,"Between 5,000 and  9,999",Yes,Other,NULL,NULL,NULL,NULL,,
+43686.47124,Yes,namarata mam,Mohd wamique ansari,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,DISS,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
+43686.47346,Yes,namarata mam,Farah,Female,18 to 30,Employee,NULL,NULL,NULL,Other,No,DISS,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Quarterly,Below 5000,NULL,,
+43686.47409,Yes,namarata mam,Jeremy,Male,18 to 30,All,Under Graduate(UG),Other,NULL,NULL,Yes,NULL,NULL,Family,Yourself,Annually,"Between 10,000 and 19,999",N/A,Other,NULL,NULL,NULL,NULL,,
+43686.47576,Yes,Adarsh,Iram yezdi,Female,18 to 30,Student & Employee,Post Graduate(PG),IT Sector,NULL,NULL,No,"NN,CA",Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,Below 5000,Yes,,
+43686.4786,Yes,namarata mam,Shoeb,Male,18 to 30,Employee,NULL,NULL,NULL,IT Sector,No,NN,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,
+43686.47915,Yes,namarata mam,Mohammed taiyab,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,DB,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43686.47947,Yes,namarata mam,Raza,Female,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,"NN,CA",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,
+43686.48168,Yes,namarata mam,Moazam,Male,18 to 30,Student,NULL,NULL,Post Graduate,NULL,No,DISS,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Family,Half Yearly,Below 5000,Yes,,
+43686.49206,Yes,namarata mam,Nadeem Shaikh,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"NN,CA",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,
+43686.5134,Yes,Vinayak,Vinayak,Male,18 to 30,Employee,NULL,NULL,NULL,IT Sector,No,"CA,DB",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43686.54058,Yes,Imran,Aasif Khan,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,NN,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,No,,
+43686.68408,Yes,namarata mam,AbdulRehman Sayyed ,Male,18 to 30,Student,NULL,NULL,Under Graduate,NULL,No,"NN,CA",No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yes,,
+43693.51407,Yes,aisha,Abc,Male,1 to 17,Student,NULL,NULL,1st to 9th,NULL,No,CA,Yes,NULL,NULL,NULL,NULL,NULL,NULL,Self,Annually,Below 5000,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,Yes,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,No,,
+,,,,,,,,,,,,,,,,,,,,,,,NULL,,
